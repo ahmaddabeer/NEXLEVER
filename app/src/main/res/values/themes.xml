@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NEXLEVER" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!--   splash api-->
+
+    <style name="Base.Theme.SplashScreen." parent="Base.Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">#191A1C</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.NEXLEVER</item>
+        <item name="android:windowSplashScreenBrandingImage">@string/app_name</item>
+    </style>
+
+
+</resources>
