@@ -28,15 +28,21 @@ The app focuses mainly on UI design and navigation. Important sections and actio
 
 ## 📸 Screenshots
 
-Screenshots of the application will be added here.
+Here are some screenshots of the Nexlevr Android application:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61b5d58a-8019-4a36-83ee-9001c32ea1f9" width="250" alt="Nexlevr App Screenshot 1" />
+  <img src="https://github.com/user-attachments/assets/6c5212a0-99a0-4af3-8311-cf0915a22fc4" width = "250"  />
+ <img width="250" alt="Screenshot_20261110_170519" src="https://github.com/user-attachments/assets/807ca79d-0357-4cd6-90fc-3a8ce2d8de3c" />
+
+
+</p>
 
 ## 🎥 Demo Video
 
-Watch the application demo here:
+Watch the application demo to see its UI, navigation, and interactive features:
 
-
-
-https://github.com/user-attachments/assets/71024b0d-d4db-4f87-b0d3-b9d627e15061
+[▶ Watch Nexlevr App Demo](https://github.com/user-attachments/assets/71024b0d-d4db-4f87-b0d3-b9d627e15061)
 
 
 
