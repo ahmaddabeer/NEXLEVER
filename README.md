@@ -36,6 +36,12 @@ Watch the application demo here:
 
 
 
+https://github.com/user-attachments/assets/71024b0d-d4db-4f87-b0d3-b9d627e15061
+
+
+
+
+
 
 
 ## 🔗 Official Website
